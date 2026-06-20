@@ -1,6 +1,3 @@
-# OOP-Libraries
-Libraries implemented using Object-Oriented Programming (OOP).
-
 # OOP Libraries
 
 A collection of reusable **C++** utility libraries built with **OOP**.
