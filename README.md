@@ -36,6 +36,3 @@ cout << clsString::CountVowels("Hello World") << endl; // 3
 Language: C++
 Paradigm: OOP
 Standard Libraries: <string> · <vector> · <cctype> · <iomanip>
-- **Language:** C++
-- **Paradigm:** OOP
-- **Standard Libraries:** `<string>` · `<vector>` · `<cctype>` · `<iomanip>`
